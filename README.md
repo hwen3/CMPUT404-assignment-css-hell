@@ -31,6 +31,7 @@ Modifications Made Part 1
 - aligned all text to center
 - adjusted the img to be displayed in the center of the current line is it displayed on
 - changed figurecaption to appear to be older english
+- marginized tables to be displayed in the center of the screen
 
 
 References
