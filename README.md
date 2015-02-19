@@ -46,3 +46,5 @@ https://www.google.ca/search?q=paper+like+background&client=ubuntu&hs=tFC&channe
 
 star image:
 https://www.google.ca/search?q=star&client=ubuntu&hs=tRv&channel=fs&source=lnms&tbm=isch&sa=X&ei=NCLlVPa-LcqggwS7_YLQCg&ved=0CAgQ_AUoAQ&biw=1539&bih=803#imgdii=_&imgrc=7xgCtKF0NPN5KM%253A%3B7wmQLCtqXT4IcM%3Bhttp%253A%252F%252Fpngimg.com%252Fupload%252Fstar_PNG1597.png%3Bhttp%253A%252F%252Fpngimg.com%252Fimg%252Fobjects%252Fstar%3B500%3B472
+
+Linkedin - for ideas on UI design as well as box shadow style
