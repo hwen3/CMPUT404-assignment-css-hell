@@ -34,7 +34,15 @@ Modifications Made Part 1
 - marginized tables to be displayed in the center of the screen
 
 
+Contributor
+===========
+Abram Hindle - original git repository
+Han Wen - additional code
+
 References
 ==========
 paper background image link:
 https://www.google.ca/search?q=paper+like+background&client=ubuntu&hs=tFC&channel=fs&tbm=isch&imgil=laCCQ4R8GH2K4M%253A%253BvTYr5rer1mj2EM%253Bhttp%25253A%25252F%25252Fwww.demilked.com%25252Ffree-paper-textures-backgrounds%25252F&source=iu&pf=m&fir=laCCQ4R8GH2K4M%253A%252CvTYr5rer1mj2EM%252C_&usg=__5eOjvcCpxWnhCr2Y1rdUwwxSHAs%3D&biw=1539&bih=803&ved=0CCoQyjc&ei=OujkVOe8CMm8ggTg_IOYBw#imgdii=_&imgrc=9FvZlNdlvfRGXM%253A%3Bzq2kXemXB0GFJM%3Bhttp%253A%252F%252Fwww.theblockforum.com%252Ffun%252Flance%252Flancescollection%252Ftextures%252Fpaper2.jpg%3Bhttp%253A%252F%252Ftex.stackexchange.com%252Fquestions%252F118135%252Fbackground-image-for-pgfplots-chart%3B3296%3B2476
+
+star image:
+https://www.google.ca/search?q=star&client=ubuntu&hs=tRv&channel=fs&source=lnms&tbm=isch&sa=X&ei=NCLlVPa-LcqggwS7_YLQCg&ved=0CAgQ_AUoAQ&biw=1539&bih=803#imgdii=_&imgrc=7xgCtKF0NPN5KM%253A%3B7wmQLCtqXT4IcM%3Bhttp%253A%252F%252Fpngimg.com%252Fupload%252Fstar_PNG1597.png%3Bhttp%253A%252F%252Fpngimg.com%252Fimg%252Fobjects%252Fstar%3B500%3B472

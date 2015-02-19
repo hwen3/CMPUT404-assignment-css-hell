@@ -1,0 +1,80 @@
+body {
+    margin: 10em;
+    background: gainsboro;
+}
+
+
+img.profileImg {
+    width:200px;
+    height:200px;
+    position: relative;
+    float: left;
+}
+
+div.sectionContainer {
+    max-width: 65%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background: azure;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15), -1px 0px 0px rgba(0, 0, 0, 0.03), 1px 0px 0px rgba(0, 0, 0, 0.03), 0px 1px 0px rgba(0, 0, 0, 0.12);
+}
+
+div.infoContainer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+div.introBar {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.personalInfo {
+    position: relative;
+    word-wrap: break-word;
+    padding-top: 1em;
+    text-align: center;
+}
+
+div.bodyInfo {
+    margin-top: 10em;
+}
+
+p.boldedH4Label {
+    font-weight: bold;
+    font-size: large;
+}
+
+p.regularH5Label {
+    font-size: medium;
+}
+
+p.durationLabel {
+    font-size: small;
+    color: dimgrey;
+    font-weight: lighter;
+}
+
+h2.category {
+    color: darkgray;
+    font-weight: normal;
+}
+
+h4 {
+    font-weight: normal;
+}
+
+#sideBar {
+    float: right;
+    max-width: 34%;
+    background: azure;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15), -1px 0px 0px rgba(0, 0, 0, 0.03), 1px 0px 0px rgba(0, 0, 0, 0.03), 0px 1px 0px rgba(0, 0, 0, 0.12);
+}
+
+#sideBarContent {
+    margin-left: 2em;
+    margin-right: 2em;
+}

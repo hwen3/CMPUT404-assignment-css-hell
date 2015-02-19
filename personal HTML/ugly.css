@@ -1,0 +1,46 @@
+body {
+    background: url("imgs/bad_css_star.jpeg");
+    margin: 10em;
+}
+
+
+img.profileImg {
+    width:200px;
+    height:200px;
+    position: relative;
+    float: left;
+}
+
+div.introBar {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.personalInfo {
+    position: relative;
+    word-wrap: break-word;
+    margin-left: 20em;
+    padding-top: 3em;
+}
+
+div.bodyInfo {
+    margin-top: 10em;
+    background: thistle;
+}
+
+
+p.boldedH4Label {
+    font-weight: bold;
+    font-size: large;
+}
+
+p.regularH5Label {
+    font-size: medium;
+}
+
+#sideBar {
+    float: right;
+    background: chartreuse;
+    max-width: 300px;
+}
